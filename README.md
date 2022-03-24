@@ -20,6 +20,9 @@ After this you can choose between random array or custom one.
 
 🛈 If you're using custom array, you must separate value by `;`. 
 
+## Example
+![alt text](https://github.com/Mzzay/sort-visualizer/blob/master/sort-visualizer.gif)
+
 ## Executables files
 * For windows:
 ```
